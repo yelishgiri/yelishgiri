@@ -1,4 +1,11 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelish (Rabindra) Giri=====================================================================================================================================Front End Developer-------------------I am currently working on web-based application designed for effortless asset management.* 🌍  I'm based in Hattiesburg, MS, USA* ✉️  You can contact me at [yelish.giri1@gmail.com](mailto:yelish.giri1@gmail.com)* 🧠  I'm learning Node.js and Express.* 🤝  I'm open to collaborating on open source projects that interests me.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelish Giri =====================================================================================================================================
+Front End Developer
+-------------------
+I am currently working on web-based application designed for effortless asset management.*
+🌍  I'm based in Hattiesburg, MS, USA*
+✉️  You can contact me at [yelish.giri1@gmail.com](mailto:yelish.giri1@gmail.com)*
+🧠  I'm learning Node.js and Express.* 
+🤝  I'm open to collaborating on open source projects that interests me.
 
 ### Skills
 
