@@ -7,7 +7,7 @@ Front End Developer
 I am currently working on web-based application designed for effortless asset management.
 
 *   🌍  I'm based in Hattiesburg, MS, USA
-*   ✉️  You can contact me at [yelish.giri1@gmail.com](mailto:yelish.giri1@gmail.com)
+*   ✉️  You can contact me at [yelish.giri2024@gmail.com](mailto:yelish.giri2024@gmail.com)
 *   🧠  I'm learning Node.js and Express.
 *   🤝  I'm open to collaborating on open source projects that interests me.
 
