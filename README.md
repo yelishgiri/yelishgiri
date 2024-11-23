@@ -1,14 +1,14 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelish Giri
 =====================================================================================================================================
 
-Front End Developer
+Full Stack Developer
 -------------------
 
 I am currently working on web-based application designed for effortless asset management.
 
 *   🌍  I'm based in Hattiesburg, MS, USA
-*   ✉️  You can contact me at [yelish.giri1@gmail.com](mailto:yelish.giri2024@gmail.com)
-*   🧠  I'm learning Node.js and Express.
+*   ✉️  You can contact me at [yelish.giri1@gmail.com](mailto:yelish.giri1@gmail.com)
+*   🧠  I'm fiddling with Node.js, Express and Flask.
 *   🤝  I'm open to collaborating on open source projects that interests me.
 
 ### Skills 
@@ -33,8 +33,8 @@ I am currently working on web-based application designed for effortless asset ma
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/yelishgiri/to-do-list-project" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=to-do-list-project&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/yelishgiri/weather-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/yelishgiri/Xeno" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=Xeno&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/yelishgiri/weather-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=weather-app&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/yelishgiri/the-library-webapp" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=the-library-webapp&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/yelishgiri/admin-dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=admin-dashboard&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/yelishgiri/ cv-application" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo= cv-application&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/yelishgiri/admin-dashboard" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=yelishgiri&repo=admin-dashboard&title_color=0891b2&text_color=ffffff&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en" /></a></div>
