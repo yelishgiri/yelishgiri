@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yelish Giri
+Hi, I am Yelish(also Rabindra) Giri
 =====================================================================================================================================
+
 
 Full Stack Developer
 -------------------
@@ -12,7 +13,7 @@ I am currently developing **Rentora**, a peer-to-peer rental application designe
 *   🤝  I'm open to collaborating on open source projects that interests me.
 
 ### Languages and Technologies
-![My Skills](https://skillicons.dev/icons?i=javascript,python,cpp,typescript,tailwind,docker,kubernetes,django,html,css,aws,django,flask,sqlite,postgresql,pytorch,electron,react,astro,linux,vscode,git)
+![My Skills](https://skillicons.dev/icons?i=javascript,python,cpp,typescript,tailwind,docker,kubernetes,django,html,css,aws,flask,sqlite,postgresql,pytorch,electron,react,astro,linux,vscode,git)
                     
 
 
