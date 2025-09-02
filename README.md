@@ -11,7 +11,7 @@ Full Stack Developer
 *   🤝  I'm open to collaborating on open source projects that interests me.
 
 ### Languages and Technologies
-![My Skills](https://skillicons.dev/icons?i=javascript,python,cpp,typescript,tailwind,docker,kubernetes,django,html,css,aws,flask,sqlite,postgresql,pytorch,electron,react,astro,linux,vscode,git,prisma,postgres,express)
+![My Skills](https://skillicons.dev/icons?i=javascript,python,cpp,typescript,tailwind,docker,kubernetes,django,html,css,aws,flask,sqlite,postgresql,pytorch,electron,react,astro,linux,vscode,git,prisma,express)
                     
 
 
